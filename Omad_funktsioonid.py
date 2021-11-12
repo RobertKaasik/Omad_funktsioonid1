@@ -39,3 +39,4 @@ while True:
         year=int(input("Sisestage aasta: "))
         result=date(day,month,year)
         print(result) 
+        #dsadsad
